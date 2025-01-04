@@ -85,10 +85,11 @@ The game has undergone several manual tests to ensure that it works as intended 
 
 5. **Performance Testing**
    - **Tested using Lighthouse**:
-     - **Performance**: 95
+     - **Performance**: 98
      - **Accessibility**: 100
-     - **SEO**: 90
-![Lighthouse Scores](media/read-me-media/lighthouse_scores.png)
+     - **Best Practices**: 100
+     - **SEO**: 100
+![Lighthouse Scores](media/read-me-media/lighthouse-scores.png)
 
 ## Installation
 
