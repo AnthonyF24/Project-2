@@ -98,3 +98,34 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors-lizard-spock.git
+
+## Usage
+
+1. **Open the Game**: Launch the `index.html` file in your web browser.
+2. **Choose Your Move**: Click on one of the buttons to select Rock, Paper, Scissors, Lizard, or Spock.
+3. **View Results**: See the game results and updated scores on the screen.
+4. **Reset Scores**: Click the "Reset Scores" button to reset the game and start fresh.
+
+## Project Structure
+rock-paper-scissors-lizard-spock/
+├── index.html           # HTML structure
+├── style.css            # CSS styles
+└── script.js            # JavaScript logic
+
+## Dependencies
+Font Awesome: Used for icons.
+
+Google Fonts: Roboto font used for styling.
+
+## Credits
+This project was made possible with the help of various resources for learning HTML, CSS, and JavaScript:
+
+W3Schools: Comprehensive tutorials on web development.
+
+MDN Web Docs: Excellent documentation for web standards and best practices.
+
+Microsoft Copilot: Provided guidance on project structure and content.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
