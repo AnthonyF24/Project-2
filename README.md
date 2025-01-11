@@ -14,7 +14,6 @@ Rock, Paper, Scissors, Lizard, Spock is an extended version of the traditional R
 - [Responsive Design](#responsive-design)
 - [Testing](#testing)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Credits](#credits)
@@ -57,6 +56,10 @@ The game is fully responsive and adapts beautifully to different screen sizes, e
 - **Responsive Design Screenshot**: Demonstrates how the game looks on various devices.
 ![Responsive Design Screenshot](media/read-me-media/game-wireframe.png)
 
+## Responsive Design Test
+- **Responsive Design Test**: Shows the responsiveness of the site on multiple devices.
+![Am I Responsive Screenshot](media/read-me-media/am-i-responsive.png)
+
 ## Testing
 
 The game has undergone several manual tests to ensure that it works as intended on various devices and browsers. Below are the key areas of testing:
@@ -85,7 +88,7 @@ The game has undergone several manual tests to ensure that it works as intended 
 
 5. **Performance Testing**
    - **Tested using Lighthouse**:
-     - **Performance**: 98
+     - **Performance**: 99
      - **Accessibility**: 100
      - **Best Practices**: 100
      - **SEO**: 100
@@ -98,13 +101,10 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors-lizard-spock.git
-
-## Usage
-
-1. **Open the Game**: Launch the `index.html` file in your web browser.
-2. **Choose Your Move**: Click on one of the buttons to select Rock, Paper, Scissors, Lizard, or Spock.
-3. **View Results**: See the game results and updated scores on the screen.
-4. **Reset Scores**: Click the "Reset Scores" button to reset the game and start fresh.
+2. **Open the Game**: Launch the `index.html` file in your web browser.
+3. **Choose Your Move**: Click on one of the buttons to select Rock, Paper, Scissors, Lizard, or Spock.
+4. **View Results**: See the game results and updated scores on the screen.
+5. **Reset Scores**: Click the "Reset Scores" button to reset the game and start fresh.
 
 ## Project Structure
 rock-paper-scissors-lizard-spock/
@@ -128,4 +128,3 @@ Microsoft Copilot: Provided guidance on project structure and content.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
