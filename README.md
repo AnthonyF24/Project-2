@@ -45,20 +45,20 @@ The following wireframes outline the key pages of the game:
 ## Screenshots
 
 - **Home Page**: Showcases the main interface with game options and scores.
-![Home Page Screenshot](media/read-me-media/main-page.png)
+![Home Page Screenshot](documentation/read-me-media/main-page.png)
 - **Game Page**: Displays the interactive game buttons and real-time score updates.
-![Game Page Screenshot](media/read-me-media/main-page-results.png)
+![Game Page Screenshot](documentation/read-me-media/main-page-results.png)
 
 ## Responsive Design
 
 The game is fully responsive and adapts beautifully to different screen sizes, ensuring a seamless experience across desktops, tablets, and mobile devices.
 
 - **Responsive Design Screenshot**: Demonstrates how the game looks on various devices.
-![Responsive Design Screenshot](media/read-me-media/game-wireframe.png)
+![Responsive Design Screenshot](documentation/read-me-media/game-wireframe.png)
 
 ## Responsive Design Test
 - **Responsive Design Test**: Shows the responsiveness of the site on multiple devices.
-![Am I Responsive Screenshot](media/read-me-media/am-i-responsive.png)
+![Am I Responsive Screenshot](documentation/read-me-media/am-i-responsive.png)
 
 ## Testing
 
@@ -92,7 +92,7 @@ The game has undergone several manual tests to ensure that it works as intended 
      - **Accessibility**: 100
      - **Best Practices**: 100
      - **SEO**: 100
-![Lighthouse Scores](media/read-me-media/lighthouse-scores.png)
+![Lighthouse Scores](documentation/read-me-media/lighthouse-scores.png)
 
 ## Installation
 
